@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   /* background: rebeccapurple;*/
+}
+
+h1{
+    margin-top: 20px;
+    font-size: 22px;
+    text-align: center;
+}
+
+#form-div{
+    margin-left: 35%;
+    width: 450px;
+    height: auto;
+    margin-top: 16px;
+    background: rebeccapurple;
+    color: white;
+    padding: 40px 30px;
+    border-radius: 10px;
+}
+
+#formulario input, button{
+    margin-top: 10px;
+    font-size: 16px; 
+}
+
+#formulario button{
+    margin-top: 10px;
+    width: 145px;
+
+}
+
+.messagens{
+    margin-left: 35%;
+    width: 450px;
+    height: auto;
+    margin-top: 16px;
+    background: rebeccapurple;
+    color: white;
+    padding: 40px 30px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#messagens p{
+    text-align: center;
+    margin: 10px;
+}
+
